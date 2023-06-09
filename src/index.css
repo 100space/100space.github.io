@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+    background-color: transparent;
+}
+html {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    font-family: "SCoreDream";
+    font-weight: 400;
+    font-size: 62.5%;
+}
+ul,
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+@media (min-width: 1024px) {
+    html {
+        font-size: 30%;
+    }
+}
+@media (max-width: 900px) and (max-height: 450px) {
+    html {
+        font-size: 20%;
+    }
+}
+@media (min-width: 1025px) and (min-height: 749px) {
+    html {
+        font-size: 40%;
+    }
+}
+@media (min-width: 1999px) and (min-height: 750px) {
+    html {
+        font-size: 50%;
+    }
+}
+@media (min-width: 2000px) and (min-height: 750px) {
+    html {
+        font-size: 62.5%;
+    }
+}
