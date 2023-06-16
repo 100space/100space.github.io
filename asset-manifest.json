@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6280c159.css",
-    "main.js": "/static/js/main.06d93186.js",
+    "main.js": "/static/js/main.ef8560cd.js",
     "static/js/787.067e86ff.chunk.js": "/static/js/787.067e86ff.chunk.js",
     "static/media/first.gif": "/static/media/first.74d23ebb8639aefdfb6c.gif",
     "static/media/second.png": "/static/media/second.e47beb0f0bb104293254.png",
@@ -9,7 +9,6 @@
     "static/media/wallet.gif": "/static/media/wallet.a4d603a836c97d67e1ef.gif",
     "static/media/profile.png": "/static/media/profile.136dd1d272306e604a42.png",
     "static/media/Query.png": "/static/media/Query.a48ad277316465676c8c.png",
-    "static/media/kakao.png": "/static/media/kakao.f1875025bdb429ca3611.png",
     "static/media/git_h.png": "/static/media/git_h.22ec26896a9f8a791ec4.png",
     "static/media/Linux.png": "/static/media/Linux.54cc5e95a61ade368bd9.png",
     "static/media/KKT.png": "/static/media/KKT.b9e54929bd8394e4b641.png",
@@ -18,13 +17,14 @@
     "static/media/React.png": "/static/media/React.b391351b9556bfcca39d.png",
     "static/media/Git.png": "/static/media/Git.35638e0756a81c9cd1a2.png",
     "static/media/Redux.png": "/static/media/Redux.6b76fec80790ef4823e2.png",
+    "static/media/kakao.png": "/static/media/kakao.021c41295a259df34ca8.png",
     "index.html": "/index.html",
     "main.6280c159.css.map": "/static/css/main.6280c159.css.map",
-    "main.06d93186.js.map": "/static/js/main.06d93186.js.map",
+    "main.ef8560cd.js.map": "/static/js/main.ef8560cd.js.map",
     "787.067e86ff.chunk.js.map": "/static/js/787.067e86ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6280c159.css",
-    "static/js/main.06d93186.js"
+    "static/js/main.ef8560cd.js"
   ]
 }
