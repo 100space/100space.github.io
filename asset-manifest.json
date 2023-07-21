@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.22a98c57.css",
-    "main.js": "/static/js/main.bdab4bc7.js",
+    "main.js": "/static/js/main.826f2000.js",
     "static/js/787.067e86ff.chunk.js": "/static/js/787.067e86ff.chunk.js",
     "static/media/first.gif": "/static/media/first.74d23ebb8639aefdfb6c.gif",
     "static/media/second.png": "/static/media/second.e47beb0f0bb104293254.png",
     "static/media/terminus.gif": "/static/media/terminus.cb149ad0eda3c8b57805.gif",
     "static/media/profile.png": "/static/media/profile.4ae3ee1bf9d743566798.png",
     "static/media/wallet.gif": "/static/media/wallet.a4d603a836c97d67e1ef.gif",
+    "static/media/nftin.jpeg": "/static/media/nftin.30d914201ce64dd72a94.jpeg",
     "static/media/Query.png": "/static/media/Query.a48ad277316465676c8c.png",
     "static/media/git_h.png": "/static/media/git_h.22ec26896a9f8a791ec4.png",
     "static/media/Linux.png": "/static/media/Linux.54cc5e95a61ade368bd9.png",
@@ -20,11 +21,11 @@
     "static/media/kakao.png": "/static/media/kakao.021c41295a259df34ca8.png",
     "index.html": "/index.html",
     "main.22a98c57.css.map": "/static/css/main.22a98c57.css.map",
-    "main.bdab4bc7.js.map": "/static/js/main.bdab4bc7.js.map",
+    "main.826f2000.js.map": "/static/js/main.826f2000.js.map",
     "787.067e86ff.chunk.js.map": "/static/js/787.067e86ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22a98c57.css",
-    "static/js/main.bdab4bc7.js"
+    "static/js/main.826f2000.js"
   ]
 }
