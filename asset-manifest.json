@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9a55d30.css",
-    "main.js": "/static/js/main.ee9de4c0.js",
+    "main.css": "/static/css/main.26c08e10.css",
+    "main.js": "/static/js/main.428b6038.js",
     "static/js/787.e5dc3531.chunk.js": "/static/js/787.e5dc3531.chunk.js",
     "static/media/terminus1.gif": "/static/media/terminus1.4ad364b738bfcfb1e013.gif",
     "static/media/terminus7.gif": "/static/media/terminus7.06bbd55419b37cceabec.gif",
@@ -47,19 +47,18 @@
     "static/media/Linux.png": "/static/media/Linux.54cc5e95a61ade368bd9.png",
     "static/media/3_1.png": "/static/media/3_1.e3a9c7fa4422b4421e6f.png",
     "static/media/Node.png": "/static/media/Node.d64154914116fa92fca7.png",
-    "static/media/Jest.png": "/static/media/Jest.414fe6f4b7bac547656e.png",
     "static/media/aws.png": "/static/media/aws.3e6a2099c3250b236db5.png",
     "static/media/React.png": "/static/media/React.b391351b9556bfcca39d.png",
     "static/media/underLine.png": "/static/media/underLine.492bc52f5102750eb17a.png",
     "static/media/Redux.png": "/static/media/Redux.6b76fec80790ef4823e2.png",
-    "static/media/kakao.png": "/static/media/kakao.021c41295a259df34ca8.png",
+    "static/media/next.svg": "/static/media/next.c33ed1c3fa2c5dfe2f80c3c69a012472.svg",
     "index.html": "/index.html",
-    "main.c9a55d30.css.map": "/static/css/main.c9a55d30.css.map",
-    "main.ee9de4c0.js.map": "/static/js/main.ee9de4c0.js.map",
+    "main.26c08e10.css.map": "/static/css/main.26c08e10.css.map",
+    "main.428b6038.js.map": "/static/js/main.428b6038.js.map",
     "787.e5dc3531.chunk.js.map": "/static/js/787.e5dc3531.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9a55d30.css",
-    "static/js/main.ee9de4c0.js"
+    "static/css/main.26c08e10.css",
+    "static/js/main.428b6038.js"
   ]
 }
